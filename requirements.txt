@@ -3,3 +3,5 @@ pandas
 plotly
 office365-rest-python-client
 openpyxl
+office365
+python-dotenv
